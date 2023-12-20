@@ -1,2 +1,2 @@
-# GFG100DaysOfCode
+# GFG100DaysOfCodeScreenShots
 Using c++ mostly
